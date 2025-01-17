@@ -28,3 +28,9 @@ div {
    padding: 0px;
    margin: 20px;
 }
+
+a:link {
+  color: #eeeeff;
+  background-color: transparent;
+  text-decoration: none;
+}
