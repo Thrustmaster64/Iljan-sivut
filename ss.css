@@ -30,7 +30,25 @@ div {
 }
 
 a:link {
-  color: #eeeeff;
+  color: #8888ff;
   background-color: transparent;
   text-decoration: none;
+}
+
+a:visited {
+  color: #4444ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffaaaa;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #ffffaa;
+  background-color: transparent;
+  text-decoration: underline;
 }
